@@ -1,0 +1,2 @@
+# vimRC
+my first vimRC
